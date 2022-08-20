@@ -1,1 +1,1 @@
-# NAK Git & Github Seminar
+# NAK Git & Github online Seminar
